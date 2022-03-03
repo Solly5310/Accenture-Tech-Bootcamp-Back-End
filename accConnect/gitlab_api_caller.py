@@ -8,7 +8,7 @@ wizards_group_id = 16050998
 
 gl = gitlab.Gitlab(
     url="https://gitlab.com",
-    private_token="glpat-ksDCwhxBhC-CYMpppDM8",
+    private_token=
 )
 
 
